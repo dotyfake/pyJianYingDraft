@@ -1,7 +1,3 @@
-Tuyệt vời! Dưới đây là bản dịch file README.md sang tiếng Việt, với các thuật ngữ kỹ thuật và tên riêng được giữ nguyên theo yêu cầu của bạn.
-
---- START OF FILE README (1).md ---
-
 # pyJianYingDraft
 ### Công cụ tạo và xuất bản nháp JianYing bằng Python nhẹ, linh hoạt, dễ sử dụng, xây dựng quy trình chỉnh sửa/trộn video tự động hoàn toàn!
 
